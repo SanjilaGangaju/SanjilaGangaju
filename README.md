@@ -1,7 +1,6 @@
 Welcome! To My Github Profile.
 - 👋 Hi, I’m @SanjilaGangaju
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning and booming in the field of data science.
+- 🌱 This is me changing the green boxes everyday.
 
 
 <!---
