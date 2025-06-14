@@ -26,6 +26,6 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjilagangaju&" alt="sanjilagangaju" /></p>
 
 
-![Codewars](https://github.r2v.ch/codewars?user=SanjilaGangaju&stroke=COLOR)
+![Codewars](https://github.r2v.ch/codewars?user=SanjilaGangaju)
 
 
