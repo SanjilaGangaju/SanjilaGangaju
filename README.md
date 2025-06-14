@@ -23,6 +23,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjilagangaju&show_icons=true&locale=en" alt="sanjilagangaju" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjilagangaju&" alt="sanjilagangaju" /></p>
-![Codewars](https://github.r2v.ch/codewars?user=SanjilaGangaju)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjilagangaju&" alt="sanjilagangaju" /></p>(https://github.r2v.ch/codewars?user=SanjilaGangaju)
 
