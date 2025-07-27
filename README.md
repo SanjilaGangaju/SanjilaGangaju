@@ -27,7 +27,6 @@
 
 
 ![Codewars](https://github.r2v.ch/codewars?user=SanjilaGangaju)
-Check out my [HackerRank profile](https://www.hackerrank.com/canzilagangaju)
 
 
 
