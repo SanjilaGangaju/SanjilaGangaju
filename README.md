@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sanjila Gangaju</h1>
-``` try { 
-         buildSomethingCool();
-        } 
-        catch {
-         learnSomethingNew();
-        }
-```
+
+
+```js
+try {
+  buildSomethingCool();
+} catch {
+  learnSomethingNew();
+}
+```        
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sanjilagangaju&label=Profile%20views&color=0e75b6&style=flat" alt="sanjilagangaju" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sanjilagangaju" alt="sanjilagangaju" /></a> </p>
