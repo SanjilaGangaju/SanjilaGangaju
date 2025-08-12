@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sanjila Gangaju</h1>
+<h1 align="center">Hey 👋, I'm Sanjila Gangaju</h1>
 
 
 ```js
