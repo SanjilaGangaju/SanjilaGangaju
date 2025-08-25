@@ -1,97 +1,24 @@
-<div align="center">
+# 💫 About Me:
+📈 I’m currently working on a Notes Taking App.<br>🤚 I’m looking to collaborate on frontend projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about HTML, CSS, Javascript, React.<br>⚡ 𝑀𝑎𝑛𝑡𝑟𝑎: 𝑆𝑡𝑎𝑟𝑣𝑒 𝑦𝑜𝑢𝑟 𝑑𝑖𝑠𝑡𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠, 𝑓𝑒𝑒𝑑 𝑦𝑜𝑢𝑟 𝑓𝑜𝑐𝑢𝑠.
 
-# ✨ Sanjila Gangaju ✨
 
-<p><em>Frontend developer passionate about building modern, user-friendly and responsive interfaces.</em></p>
+## 🌐 Socials:
+[![linkedin](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sanjilagangaju) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:canzilagangaju@gmail.com) 
 
-<hr>
-
-</div>
-
-## 🔭 I'm currently working on
-
-<div align="center"><p>Working on a MERN Stack project that is basically a notes taking app.</p></div>
-
-## 🌱 I'm currently learning
-
-<div align="center"><p>Learning TypeScript for more typesafety.</p></div>
-
-## 👀 I'm interested in
-
-<div align="center"><p>Open to Frontend Projects</p></div>
-
-## 👀 Visitor Count
-
-<!-- ⚠️ Important: Replace 'SanjilaGangaju' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/SanjilaGangaju/count.svg" />
-  <br>Thank you for visiting my profile! Come back soon!
-</p>
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=plastic&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=plastic&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=plastic&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=plastic&logo=redux&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=plastic&logo=styled-components&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=plastic&logo=bootstrap&logoColor=white) ![Chakra](https://img.shields.io/badge/chakra-%234ED1C5.svg?style=plastic&logo=chakraui&logoColor=white) ![Context-API](https://img.shields.io/badge/Context--Api-000000?style=plastic&logo=react) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=plastic&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=sanjilagangaju&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=sanjilagangaju&theme=calm_pink&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sanjilagangaju&theme=calm_pink&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=sanjilagangaju&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
 
-<!-- ⚠️ Important: Replace 'SanjilaGangaju' with your actual GitHub username in the URL below -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjilaGangaju&theme=flat&column=7&margin-w=15&margin-h=15" />
-</p>
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
 
-## 📊 GitHub Stats
 
-<!-- ⚠️ Important: Replace 'SanjilaGangaju' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanjilaGangaju&show_icons=true&theme=buefy&include_all_commits=true&count_private=true"/>
-</div>
+[![](https://visitcount.itsvg.in/api?id=sanjilagangaju&icon=4&color=10)](https://visitcount.itsvg.in)
 
-## 🔝 Most Used Languages
-
-<!-- ⚠️ Important: Replace 'SanjilaGangaju' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjilaGangaju&layout=compact&langs_count=10&theme=buefy"/>
-</div>
-
-## 🔥 Contribution Streak
-
-<!-- ⚠️ Important: Replace 'SanjilaGangaju' with your actual GitHub username in the URL below -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjilaGangaju&theme=buefy&hide_border=false" />
-</div>
-
-## 💻 Tech Stack
-
-<div align="center">
-
-**🎨 Frontend**
-
-`React` • `Next.js` • `Material UI` • `HTML5` • `CSS3` • `Bootstrap`
-
-**⚙️ Backend**
-
-`Node.js` • `Express` • `MySQL` • `MongoDB`
-
-**💬 Languages**
-
-`JavaScript` • `TypeScript`
-
-</div>
-
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://github.com/SanjilaGangaju"><img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/sanjilagangaju/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
-</div>
-
-## 📫 How to reach me
-
-<div align="center">
-
-**Email:** canzilagangaju@gmail.com
-
-</div>
-
-<div align="center">
-
-✨ *Thanks for visiting my profile! Have a wonderful day!* ✨
-
-</div>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
