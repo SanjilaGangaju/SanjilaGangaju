@@ -14,8 +14,7 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sanjilagangaju&theme=calm_pink&no-frame=false&no-bg=false&margin-w=4)
-![trophy](https://github-profile-trophy.vercel.app/?username=sanjilagangaju&theme=radical&column=3)
-![trophy](https://github-profile-trophy.vercel.app/?username=sanjilagangaju)
+
 
 
 
