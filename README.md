@@ -1,5 +1,5 @@
 # 💫 About Me:
-🤚 I’m looking to collaborate on frontend projects.<br>🌱 I’m currently learning MERN Stack.<br>💬 Ask me about HTML, CSS, Javascript, React.<br>⚡ 𝑀𝑎𝑛𝑡𝑟𝑎: 𝑆𝑡𝑎𝑟𝑣𝑒 𝑦𝑜𝑢𝑟 𝑑𝑖𝑠𝑡𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠, 𝑓𝑒𝑒𝑑 𝑦𝑜𝑢𝑟 𝑓𝑜𝑐𝑢𝑠.
+🤚 I’m looking to collaborate on frontend projects.<br>🌱 I’m currently learning React Native.<br>💬 Ask me about HTML, CSS, Javascript, React, React Native<br>⚡ 𝑀𝑎𝑛𝑡𝑟𝑎: 𝑆𝑡𝑎𝑟𝑣𝑒 𝑦𝑜𝑢𝑟 𝑑𝑖𝑠𝑡𝑟𝑎𝑐𝑡𝑖𝑜𝑛𝑠, 𝑓𝑒𝑒𝑑 𝑦𝑜𝑢𝑟 𝑓𝑜𝑐𝑢𝑠.
 
 
 ## 🌐 Socials:
